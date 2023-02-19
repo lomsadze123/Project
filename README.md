@@ -1,4 +1,4 @@
 # Project
 CVkratos
 
-LiveServer: 
+LiveServer: https://lomsadze123.github.io/Project/
